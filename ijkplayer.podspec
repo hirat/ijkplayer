@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name          = 'ijkplayer'
-  s.version       = '0.7.3'
+  s.version       = '0.7.4'
   s.summary       = 'ijkplayer'
   s.homepage      = 'https://github.com/Bilibili/ijkplayer'
   s.author        = { 'Zhang Rui' => 'bbcallen@gmail.com' }
